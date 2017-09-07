@@ -7,3 +7,16 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
+
+What new skills have you learned?
+	* This project was added after I had already gone through most of the course. I can't say any new skills were learned, but it did provide maybe a good brush up on some HTML elevements I don't think of often.
+
+What has been easy?
+	* Being alreday familiar with the material made teh prject very easy.
+
+
+What has been difficult?
+	* As with a lot of projects in the real world, communication. The instructions could have been clearer. 
+
+How have you used the problem solving strategies from the first project to overcome challenges so far? 
+	* I think the first project may have changed since when i first started, but I think just learning the basics of the DOM and HTML structure would have been enough to get started on the project. 
